@@ -2,14 +2,19 @@
   overflow:hidden;
   background-color: grey;
   height: 70px;
+  top: 0;
+  position: fixed;
+  width: 100%;
+}
+#welcome_section {
+background-color: white;
+height: 100vh;
+margin-top: 70px;
 }
 #projects {
-  background-color: skyblue;
+  background-color: white;
   }
-#welcome_section {
-  background-color: lightgreen;
-}
-@media screen and (min-width: 480px) {
+@media (min-width: 800px) {
   #projects {
     background-color: lightgreen;
     }
