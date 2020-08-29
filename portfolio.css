@@ -3,3 +3,16 @@
   background-color: grey;
   height: 70px;
 }
+#projects {
+  background-color: skyblue;
+  }
+#welcome_section {
+  background-color: lightgreen;
+}
+@media screen and (min-width: 480px) {
+  #projects {
+    background-color: lightgreen;
+    }
+  #welcome_section {
+    background-color: skyblue;
+  }
