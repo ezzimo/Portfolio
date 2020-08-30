@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-  <title> </title>
-  <link rel="stylesheet" href="portfolio.css">
+  <title> Welcome to Mohammed Ezzi's Portfolio </title>
+  <link rel="stylesheet" href="Portfolio/portfolio.css">
   </head>
 
   <body>
@@ -16,7 +16,7 @@
     <section id="welcome_section">
       <h1> Welcome to Mohammed Ezzi's Portfolio </h1>
       <h3>My first Project</h3>
-      <img src="welcome_image.jpg" alt="Welcome">
+      <img src="Portfolio/dwelcome_image.jpg" alt="Welcome">
       <p>
         This is the seconde Project that I had as a test and challege before being part of the <a href="www.microverse.org">Microverse collaborative learning</a></b>
         I worked on it in collaborative way, I onjoyed working with my partner.
