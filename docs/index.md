@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title> </title>
+  <link rel="stylesheet" href="portfolio.css">
+  </head>
 
-You can use the [editor on GitHub](https://github.com/ezzimo/Portfolio/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+  <body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <nav id="navbar">
+      <a href="#welcome_section"> Welcome</a>
+      <a href="#projects"> Projects</a>
 
-### Markdown
+    </nav>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <section id="welcome_section">
+      <h1> Welcome to Mohammed Ezzi's Portfolio </h1>
+      <h3>My first Project</h3>
+      <img src="welcome_image.jpg" alt="Welcome">
+      <p>
+        This is the seconde Project that I had as a test and challege before being part of the <a href="www.microverse.org">Microverse collaborative learning</a></b>
+        I worked on it in collaborative way, I onjoyed working with my partner.
+        I hop to succed to integrating this experience that seem to be very interesting and extremely enriching.</b>
 
-```markdown
-Syntax highlighted code block
+      </p>
+    </section>
 
-# Header 1
-## Header 2
-### Header 3
+    <section id="projects">
+        <p class="project-tile"><h1>Responsive Web Design Projects - Build a Personal Portfolio Webpage</h1> </p>
+        <h2> <a href = "https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage"> Click here to view my Project </a> </h2>
+      </br>
+      <h2> <a href="https://github.com/ezzimo/Portfolio" id="profile-link" target="_blank"> Click here to view my GitHub Profile</a> </h2>
+    </section>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ezzimo/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  </body>
+</html>
